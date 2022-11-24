@@ -4,12 +4,12 @@
 //Typeof-Lists the DataType //
 // Instanceof-Checks if an Object was made by a Constructor or Function(If a Person is a Person) //
 //=======================================================================================================
-//=====1st Approach=====//
+// =====1st Approach=====//
 // let button = document.getElementById('button');
 
 // button.addEventListener('click', (event) => {
-//         document.getElementById("para1").innerHTML = '<h1 style="color: crimson">Hello Dying World</h1>';
-//         document.getElementById("para2").innerHTML = '<h1 style="color: crimson">Hello New World</h1>';
+//         document.getElementById("para1").innerHTML = '<h1 style="color: crimson">SITH LORDS HERE MY CALL</h1>';
+//         document.getElementById("para2").innerHTML = '<h1 style="color: crimson">Gray Lords Feel The Call</h1>';
 
 // })
 //=======================================================================================================
@@ -26,6 +26,7 @@
 // document.write('Hello,World');
 // console.log(window);
 // console.log(alert("I Am Death"));
+//=======================================================================================================
 // Creating an instance-(makes use of new-keyword to create the object)//
 // let num1 = new Number(16);
 // End of Instance //
