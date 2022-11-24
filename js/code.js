@@ -39,18 +39,18 @@
 // Array-Familiarity //
 
 // Question-1 //
-let array = [4, 6, 8, 9, 11, 14];
+// let array = [4, 6, 8, 9, 11, 14];
 
-let size = array.length;
-// Question-2 //
-console.log(array);
-// Question-3 //
-console.log(array[0]);
-// Question-4 //
-const evens = array.filter((num) => num % 2 === 0);
-console.log(evens);
-// Question-5 //
-if (array.includes(9)) {
-    console.log('It Does! The position Is: ' + array.indexOf(9));
-}
+// let size = array.length;
+// // Question-2 //
+// console.log(array);
+// // Question-3 //
+// console.log(array[0]);
+// // Question-4 //
+// const evens = array.filter((num) => num % 2 === 0);
+// console.log(evens);
+// // Question-5 //
+// if (array.includes(9)) {
+//     console.log('It Does! The position Is: ' + array.indexOf(9));
+// }
 //=======================================================================================================
